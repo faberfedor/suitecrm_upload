@@ -1,0 +1,28 @@
+
+A client of mine made a custom module called Assignments which had
+50,000+ entries. He needed to upload 147,000+ documents and set a
+relationship between the Assignemnts and the Documents.  The name of the
+Assignment and the name of the Document were listed in a CSV file.  This
+program does precisely that. I had trouble finding examples on how to do
+this (and the ones I did find were woefully out of date) and the
+SugarCRM/SuiteCRM documentation needs serious work.
+
+!!!!!!!! DO NOT EXPECT THIS TO RUN !!!!!!!!!!  
+ THIS IS ONLY FOR ILLUSTRATIVE PURPOSES ONLY
+
+You don't have my data files, you don't have my custom module, you don't
+have my setup. Also, I've taken out a lot of logging and error correction
+to make the code cleaner to read.
+
+Once again:
+
+!!!!!!!! DO NOT EXPECT THIS TO RUN !!!!!!!!!!  
+ THIS IS ONLY FOR ILLUSTRATIVE PURPOSES ONLY
+
+You can read a detailed explanation over at my blog: 
+http://faberfedor.blogspot.com/2015/07/this-is-long-post-about-programming.html
+
+--
+
+Faber Fedor (faber@fsquared-enterprises.com)
+20150701
